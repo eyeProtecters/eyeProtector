@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F9022758-057E-4974-A211-A966528709F3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>protectEyer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F7C05439C8C32F75921B956446D62C55ABBA19AC</key>
+		<string>https://github.com/eyeProtecters/eyeProtector.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>protectEyer.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F7C05439C8C32F75921B956446D62C55ABBA19AC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/eyeProtecters/eyeProtector.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F7C05439C8C32F75921B956446D62C55ABBA19AC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F7C05439C8C32F75921B956446D62C55ABBA19AC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>eyeProtector</string>
+		</dict>
+	</array>
+</dict>
+</plist>
