@@ -84,6 +84,7 @@
     NSLog(@"第%@种皮肤",skinnumber);
     [[NSNotificationCenter defaultCenter]postNotificationName:@"SkinNotification" object:skinnumber];
     [self dismissViewControllerAnimated:YES completion:nil];
+    NSLog(@"hahahaha");
 }
 
 
